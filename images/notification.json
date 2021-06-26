@@ -1,0 +1,42 @@
+{
+  "result": "success",
+  "message": "Notifications Get Successfully",
+  "data": [
+    {
+      "id": 1,
+      "date": "2021-06-26T15:19:11.000000Z",
+      "imageUrl": "https://i.pinimg.com/originals/e2/69/be/e269beaf71b475882c25d1986b0ea3e8.jpg",
+      "content": "Catherine Doe invites you to check Cabestan",
+      "type": "invitation"
+    },
+    {
+      "id": 2,
+      "date": "2021-06-10T15:19:11.000000Z",
+      "imageUrl": "https://static.abplive.com/wp-content/uploads/2020/05/13042222/Aamir-Khan.jpg?impolicy=abp_cdn&imwidth=720",
+      "content": "Ravi vithani accepted your follow request ",
+      "type": "accept_request"
+    },
+    {
+      "id": 3,
+      "date": "2021-06-25T15:19:11.000000Z",
+      "imageUrl": "https://img.icons8.com/bubbles/2x/user-male.png",
+      "content": "You earned 150 points this week. Keep it up!",
+      "color": "#2e6599",
+      "type": "reward"
+    },
+    {
+      "id": 4,
+      "date": "2021-06-10T15:19:11.000000Z",
+      "imageUrl": "https://www.koimoi.com/wp-content/new-galleries/2020/08/captain-marvel-actress-brie-larson-gives-it-back-to-haters-read-on-001.jpg",
+      "content": "John Legend added one of your EQQES to her To Discover List",
+      "type": "invitation"
+    },
+    {
+      "id": 5,
+      "date": "2021-06-26T15:19:11.000000Z",
+      "imageUrl": "https://raw.githubusercontent.com/Androidsignal/Sample-Work/main/IMG_0194.jpeg",
+      "content": "Julia Anderson invited you to check Covestan",
+      "type": "invitation"
+    }
+  ]
+}
